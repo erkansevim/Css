@@ -23,6 +23,9 @@ h1 {
   text-align: justify;
   text-transform: uppercase;
   direction: rtl;
+  letter-spacing: 3px;
+  line-height: 1.5;
+  word-spacing: 10px;
 }
 #par4 {
   text-transform: capitalize;
