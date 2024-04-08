@@ -13,6 +13,8 @@ h1 {
   text-shadow: -5px 5px 10px black;
   background-color: rgba(0, 0, 0, 0.4);
   box-shadow: 5px 5px 10px black;
+  column-count: 3;
+  column-rule: 3px solid red;
 }
 #par2 {
   text-align: right;
