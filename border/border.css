@@ -6,4 +6,20 @@
     color: magenta;
     border-width: 5px;
     border-style: solid;
+    border-color: green;
+    border-radius: 10px;
+
+}
+
+#par3{
+border: 3px double lime;
+width: 250px;
+height: 250px;
+border-radius: 50%;
+}
+#par4{
+
+}
+#par5{
+
 }
