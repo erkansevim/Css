@@ -1,25 +1,33 @@
-#par1{
-    border: 3px dotted red;
+#par1 {
+  border: 3px dotted red;
 }
 
-#par2{
-    color: magenta;
-    border-width: 5px;
-    border-style: solid;
-    border-color: green;
-    border-radius: 10px;
-
+#par2 {
+  color: magenta;
+  border-width: 5px;
+  border-style: solid;
+  border-color: green;
+  border-radius: 10px;
 }
 
-#par3{
-border: 3px double lime;
-width: 250px;
-height: 250px;
-border-radius: 50%;
+#par3 {
+  border: 3px double lime;
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  padding-top: 22%;
+  box-sizing: border-box;
+  text-align: center;
 }
-#par4{
-
+#par4 {
+    border: 5px dashed teal;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
 }
-#par5{
-
+#par5 {
 }
