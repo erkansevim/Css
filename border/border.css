@@ -1,0 +1,9 @@
+#par1{
+    border: 3px dotted red;
+}
+
+#par2{
+    color: magenta;
+    border-width: 5px;
+    border-style: solid;
+}
