@@ -30,4 +30,7 @@
     align-items: center;
 }
 #par5 {
+
+    border: 10px outset darkgoldenrod;
+    padding: 20px;
 }
