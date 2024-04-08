@@ -9,6 +9,8 @@ h1 {
 #par1 {
   color: aqua;
   text-align: center;
+  font-size: 1.3rem;
+  text-shadow: -5px 5px 10px black;
 }
 #par2 {
   text-align: right;
