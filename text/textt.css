@@ -11,14 +11,18 @@ h1 {
   text-align: center;
   font-size: 1.3rem;
   text-shadow: -5px 5px 10px black;
+  background-color: rgba(0, 0, 0, 0.4);
+  box-shadow: 5px 5px 10px black;
 }
 #par2 {
   text-align: right;
+  direction: rtl;
 }
 
 #par3 {
   text-align: justify;
   text-transform: uppercase;
+  direction: rtl;
 }
 #par4 {
   text-transform: capitalize;
@@ -26,5 +30,7 @@ h1 {
 }
 #par5 {
   text-transform: lowercase;
-  text-decoration: overline wavy;
+  text-decoration: overline;
+  direction: rtl;
+  unicode-bidi: bidi-override;
 }
