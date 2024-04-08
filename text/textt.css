@@ -39,4 +39,5 @@ h1 {
   text-decoration: overline;
   direction: rtl;
   unicode-bidi: bidi-override;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
