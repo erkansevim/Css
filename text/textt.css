@@ -20,7 +20,9 @@ h1 {
 }
 #par4 {
   text-transform: capitalize;
+  text-decoration: line-through;
 }
 #par5 {
   text-transform: lowercase;
+  text-decoration: overline wavy;
 }
