@@ -1,0 +1,28 @@
+main{
+    background-color: aqua;
+    position: relative;
+}
+
+.box1{
+    background-color: aliceblue;
+    width: 100px;
+    height: 100px;
+
+}
+
+
+.box2{
+background-color: blueviolet;
+width: 100px;
+    height: 100px;
+}
+
+
+.box3{
+background-color: rgb(64, 92, 92);
+width: 100px;
+    height: 100px;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
