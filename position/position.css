@@ -27,3 +27,8 @@ width: 100px;
     right: 0;
     top: 0;
 }
+#stick{
+    background-color: brown;
+    position: sticky;
+    top: 0;
+}
