@@ -1,6 +1,10 @@
 *{
     border: 1px solid red;
 }
+
+html{
+    font-size: 12px;
+}
 .card{
     width: 30%;
     background-color: bisque;
@@ -24,3 +28,4 @@
 .card > p{
     font-size: 1.5rem;
 }
+
