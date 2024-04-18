@@ -1,0 +1,11 @@
+html{
+    font-size: 19px;
+}
+.abs{
+    font-size: 15px;
+}
+
+.rel1{
+    background-color: aqua;
+    width: 50%;
+}
