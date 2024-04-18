@@ -1,10 +1,26 @@
 *{
-    border: 2px solid red;
+    border: 1px solid red;
 }
 .card{
     width: 30%;
+    background-color: bisque;
+    margin: 1rem;
+    border-radius: 1rem;
+    padding: 1rem;
 }
 
 .card img{
     width: 100%;
+}
+
+.card img+h2{
+    color: brown;
+}
+
+.card img+h2::first-letter{
+    font-size: 40px;
+}
+
+.card > p{
+    font-size: 1.5rem;
 }
