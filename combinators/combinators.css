@@ -1,0 +1,10 @@
+*{
+    border: 2px solid red;
+}
+.card{
+    width: 30%;
+}
+
+.card img{
+    width: 100%;
+}
