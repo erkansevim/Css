@@ -8,4 +8,8 @@ html{
 .rel1{
     background-color: aqua;
     width: 50%;
+    height: 50vh;
+}
+img{
+    width: 50vw;
 }
