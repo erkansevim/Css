@@ -13,3 +13,18 @@
     height: 5rem;
     border: 1px solid red;
 }
+
+.container1{
+    background-color: aqua;
+    height: 20rem;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.container1 div{
+    background-color: pink;
+    width: 5rem;
+    height: 5rem;
+    border: 1px solid red;
+    text-align: center;
+}
