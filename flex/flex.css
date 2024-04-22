@@ -1,0 +1,15 @@
+.container{
+    background-color: antiquewhite;
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: center;
+    justify-content: space-between ;
+    justify-content: space-evenly;
+}
+
+.container div{
+    background-color: brown;
+    width: 5rem;
+    height: 5rem;
+    border: 1px solid red;
+}
