@@ -31,3 +31,12 @@
     align-items: baseline;
     
 }
+
+.container1 div:nth-child(1){
+height: 6rem;
+}
+.container1 div:nth-child(2){
+    height: 9rem;
+    }
+    
+    
