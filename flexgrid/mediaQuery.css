@@ -72,11 +72,32 @@ width: 15%;
 @media screen and (max-width:992px){
     body{
         background-color: var(--acik-kirmizi);
+        color: white;
+    }
+
+    .col{
+        width: 50%;
+        margin: 0.5rem 0;
     }
 }
 
 @media screen and (max-width:576px){
     body{
         background-color: var(--mor-1);
+
+    }
+    .header{
+        display: none;
+    }
+
+    .col{
+        width: 100%;
+        text-align: center;
+    }
+    .navbar a{
+        display: block;
+        text-align: center;
     }
 }
+
+
