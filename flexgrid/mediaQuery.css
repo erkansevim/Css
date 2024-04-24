@@ -1,0 +1,82 @@
+@import "./theme.css";
+
+*{
+    box-sizing: border-box  ;
+    margin: 0;
+    font-weight: 500;
+    font-family: var(--ff-montserrat);
+}
+
+body{
+    background-color: var(--mavi-9);
+
+}
+
+h1{
+    background-color: var(--koyu-kirmizi);
+    border: 2px solid black;
+    width: 300px;
+    text-align: center;
+    margin: 1rem auto;
+    border-radius: 30px;
+    padding: 10px 0;
+    font-size: 50px;
+    
+}
+
+.header{
+    background-color: var(--koyu-yesil);
+}
+
+.navbar{
+    background-color: var(--gri-4);
+    text-align: end;
+
+}
+
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px 20px ;
+    display: inline-block;
+}
+
+.row{
+    display:flex;
+    flex-wrap: wrap;
+}
+
+.col{
+    padding:20px;
+}
+
+.col-1{
+background-color: var(--gri-5);
+width: 35%;
+}
+
+.col-2{
+    background-color: var(--gri-6);
+width: 20%;
+}
+.col-3{
+    background-color: var(--gri-7);
+width: 30%;
+}
+.col-4{
+    background-color: var(--gri-8);
+width: 15%;
+}
+
+
+@media screen and (max-width:992px){
+    body{
+        background-color: var(--acik-kirmizi);
+    }
+}
+
+@media screen and (max-width:576px){
+    body{
+        background-color: var(--mor-1);
+    }
+}
